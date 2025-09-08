@@ -32,3 +32,24 @@ It enables businesses to:
 ---
 
 ## 📂 Planned Repository Structure
+
+---
+
+## 📖 How to Use (coming soon)
+1. Import the managed solution file into your Dynamics 365 CRM environment  
+2. Configure SLA settings and sample data  
+3. Run sample service requests to test SLA tracking  
+
+---
+
+## 📌 Next Steps
+- [ ] Add Dataverse table & form screenshots  
+- [ ] Upload Power Automate flows  
+- [ ] Share exportable solution file  
+- [ ] Add sample dashboards  
+
+---
+
+👤 **Author:** Suyog Sawadatkar  
+🔗 *More projects coming soon on my GitHub profile.*  
+
